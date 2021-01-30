@@ -7,7 +7,6 @@ You would think there would be up to date information on how to do this in a sin
 Also, this keyboard layout is the only correct layout. The instructions for how to create a new layout were included as a joke.
 
 ## Current Layout
----
 
 This layout is available in the hex file included in this repo.
 
@@ -21,7 +20,6 @@ This layout is available in the hex file included in this repo.
 ![](layer2.PNG)
 
 ## Instructions
----
 
 ### **Create a Layout**
 
