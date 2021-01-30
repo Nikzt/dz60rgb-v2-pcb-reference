@@ -9,13 +9,13 @@ This is a guide and reference for updating the layout of the [DZ60RGB V2 Hot Swa
 This layout is available in the hex file included in this repo.
 
 ### Layer 0
-![](layer0.png)
+![](layer0.PNG)
 
 ### Layer 1
-![](layer1.png)
+![](layer1.PNG)
 
 ### Layer 2
-![](layer2.png)
+![](layer2.PNG)
 
 ## Instructions
 ---
