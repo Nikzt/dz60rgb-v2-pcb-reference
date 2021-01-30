@@ -2,6 +2,9 @@
 
 This is a guide and reference for updating the layout of the [DZ60RGB V2 Hot Swap PCB](https://kbdfans.com/collections/60/products/dz60rgb-hot-swap-custom-keyboard-pcb)
 
+You would think there would be up to date information on how to do this in a single place, perhaps on the only website that's actually selling this PCB, but no. I had to scour the internet for forums of people troubleshooting this whole process. Now it is in a single place and I'll never have to do that again.
+
+Also, this keyboard layout is the only correct layout. The instructions for how to create a new layout were included as a joke.
 
 ## Current Layout
 ---
